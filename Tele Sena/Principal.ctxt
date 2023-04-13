@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\r\n\ Classe\ principal,\ possui\ o\ m\u00E9todo\ main.\r\n\ Al\u00E9m\ disso,\ chama\ os\ m\u00E9todos\ das\ outras\ classes\ e\ exibe\ mensagens\ ao\ usu\u00E1rio\ de\ acordo\ com\ o\ que\ est\u00E1\ acontecendo\r\n\ durante\ o\ uso\ do\ programa.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ pontinhos()
+comment3.params=s
+comment3.target=void\ delay(double)
+numComments=4
