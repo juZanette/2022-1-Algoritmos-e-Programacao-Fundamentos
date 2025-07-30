@@ -6,7 +6,7 @@
 - Disciplina: Algoritmos e Programação - Fundamentos
 - Período: 2022-1
 
-## 📋 Sobre o Projeto
+## 📋 Sobre o Repositório
 
 Este repositório contém três projetos desenvolvidos em Java como parte da disciplina de Algoritmos e Programação - Fundamentos do semestre 2022-1. Cada projeto explora conceitos fundamentais de programação orientada a objetos, incluindo classes, métodos, encapsulamento e controle de fluxo.
 
@@ -21,11 +21,11 @@ Sistema bancário básico que simula operações de uma conta corrente e cálcul
 - Consulta de informações da conta
 - Cadastro de imóveis com cálculo de impostos
 
-### 2. **Tamagotchi**
+### 2. **Tamagochi**
 Simulação do famoso bichinho virtual que realiza ações aleatórias e pode "morrer" baseado em seus atributos.
 
 **Funcionalidades:**
-- Criação de um Tamagotchi com nome, energia e idade
+- Criação de um Tamagochi com nome, energia e idade
 - Ações aleatórias que afetam os atributos
 - Sistema de vida/morte baseado nos valores dos atributos
 - Interface amigável com emojis
