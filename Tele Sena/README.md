@@ -75,4 +75,4 @@ Este projeto implementa uma simulação do jogo Tele Sena desenvolvida em Java, 
 - **Tratamento de Exceções**: Gestão de erros de entrada
 - **Estruturas de Controle**: Loops, condicionais e validações
 - **Métodos Estáticos**: Utilização da classe Teclado para entrada de dados
-- **Lógica de Comparação**: Algoritmos para verificação de acertos e
+- **Lógica de Comparação**: Algoritmos para verificação de acertos e erros
