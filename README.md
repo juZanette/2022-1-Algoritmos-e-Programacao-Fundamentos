@@ -1,7 +1,5 @@
 # Algoritmos e Programação - Fundamentos
 
-## 👩🏻 Autora
-
 **Júlia Faccio Zanette**
 - Disciplina: Algoritmos e Programação - Fundamentos
 - Período: 2022-1
