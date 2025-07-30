@@ -48,7 +48,7 @@ Este projeto implementa um Tamagotchi desenvolvido em Java, onde o usuário pode
 
 ## 📋 Fluxo da Aplicação
 
-1. **Criação do Tamagotchi:**
+1. **Criação do Tamagochi:**
    - Define nome do bichinho virtual
    - Inicializa status básicos (fome, sono, diversão, limpeza)
 
